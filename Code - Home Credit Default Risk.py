@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Home Credit Default Risk - Completed
+# # Home Credit Default Risk - 
 
 # ## Background Information
 # 
